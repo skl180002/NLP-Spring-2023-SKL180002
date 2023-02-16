@@ -1,0 +1,10 @@
+Homework 2 HLT: NLTK Hangman 
+This project takes in any txt document, and plays hangman with the 50 most 
+common nouns longer than 5 letters in that document. 
+To run the program, you must pip install NLTK first. 
+Then, simply place the .txt of your choice, must contain at least 50 unique nouns, 
+in the same folder as the .py program. Then simply run the program from the 
+command line with the .txt filename as an argument. 
+From there instructions are available inside the game. 
+This program utilizes POS tagging, lemmatization, and input filtering to achieve 
+this word bank for the game.
