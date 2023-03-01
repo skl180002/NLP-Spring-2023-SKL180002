@@ -9,3 +9,5 @@ A class portfolio for human language technologies section 1, fall 2023.
 [Hangman](HW2HangMan/HW2SKL180002.py)
 
 [Wordnet](SKL180002HWWordNet.pdf)
+
+[N-Grams](HW3Engrams/Ngrams.pdf)
