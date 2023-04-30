@@ -21,3 +21,5 @@ A class portfolio for human language technologies section 1, fall 2023.
 [ACL Paper Summary](ACLSummary.pdf)
 
 [Chat Bot](ChatBot/REMI_FinalReport.pdf)
+
+[Movie Summary Classification](WikiSummaries.ipynb)
