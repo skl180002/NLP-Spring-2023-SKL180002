@@ -19,3 +19,5 @@ A class portfolio for human language technologies section 1, fall 2023.
 [Airline Sentiment](Airline_Sentiment.ipynb)
 
 [ACL Paper Summary](ACLSummary.pdf)
+
+[Chat Bot](ChatBot/REMI_FinalReport.pdf)
