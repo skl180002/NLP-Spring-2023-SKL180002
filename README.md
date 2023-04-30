@@ -1,6 +1,7 @@
 # NLP-Spring-2023-SKL180002
 A class portfolio for human language technologies section 1, fall 2023.
-
+## **Resume**
+[Scott Lorance Resume](Lorance_Resume2023.pdf)
 ## **Table of Contents**
 [NLP Overview](OverView.pdf)
 
