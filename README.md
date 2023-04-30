@@ -13,3 +13,5 @@ A class portfolio for human language technologies section 1, fall 2023.
 [N-Grams](Hw3Engrams/Ngrams.pdf)
 
 [Web-Scraper](WebScraper/Report.docx)
+
+[Sentence parsing](DependencyParse.pdf)
