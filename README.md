@@ -15,3 +15,5 @@ A class portfolio for human language technologies section 1, fall 2023.
 [Web-Scraper](WebScraper/Report.docx)
 
 [Sentence parsing](DependencyParse.pdf)
+
+[Airline Sentiment](Airline_Sentiment.ipynb)
