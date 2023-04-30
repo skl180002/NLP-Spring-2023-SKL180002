@@ -8,6 +8,8 @@ NLTK, OpenCV, Numpy and pandas.
 The projects listed display a good understanding of subjects such as web scraping, text classification,
 and data preprocessing.
 
+I am interested in continuing work in AI related fields, and can be reached out to for employment opportunities.
+
 ## **Resume**
 [Scott Lorance Resume](Lorance_Resume2023.pdf)
 ## **Table of Contents**
